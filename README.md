@@ -4,11 +4,17 @@ will convert into a visual map. Contains over 1900 unique 32x32 tiles.
 
 
 With version 0.2 you can now do the folowing:
+
 -Undo Moves
+
 -Change Map Dimensions
+
 -Fill A Portion Of The Map (Simular To Paint Bucket)
+
 -Save Your Map
+
 -Load Your Map
+
 
 
 Along with these changes there has been a lot of code-cleanup and

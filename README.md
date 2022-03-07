@@ -8,7 +8,7 @@ With version 0.2 you can now do the folowing:
 
 -Change Map Dimensions
 
--Fill A Portion Of The Map (Simular To Paint Bucket)
+-Draw and a fill a rectangle
 
 -Save Your Map
 
